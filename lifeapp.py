@@ -25,7 +25,7 @@ scaler = load("scaler.pkl")
 # Load Dataset
 # =========================
 
-df = pd.read_csv("C:\\Knowledge Park\\AI, ML and DS\\ML_Deployment\\Life Expectancy\\Life Expectancy Data.csv")
+df = pd.read_csv("Life Expectancy Data.csv")
 
 
 # ============================================================# COUNTRY LIST
