@@ -547,7 +547,7 @@ st.markdown("""
 
 ### 🌍 Life Expectancy Prediction using Machine Learning
 
-Built with ❤️ using Streamlit | Developed by Nakul Gupta
+Built with ❤️ using Streamlit | Developed by nmshah9
 
 </div>
 """, unsafe_allow_html=True)
